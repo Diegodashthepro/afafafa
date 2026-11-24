@@ -1,0 +1,14 @@
+{
+	"geode": "6.0.0",
+	"gd": {
+		"win": "2.2091",
+		"android": "2.2091",
+		"mac": "2.2091",
+		"ios": "2.2091"
+	},
+	"id": "diegodash.pixel-importer",
+	"name": "Imagen a Bloques",
+	"version": "v1.3.1",
+	"developer": "Diegodash",
+	"description": "Importa una imagen o un video corto (10 s) al editor como bloques, uniendo zonas de colores parecidos."
+}
